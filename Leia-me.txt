@@ -1,0 +1,3 @@
+Um banco firebird foi disponibilizado para teste em C:\AppCM\Banco.
+Usuario banco: SYSDBA	
+Senha: masterkey

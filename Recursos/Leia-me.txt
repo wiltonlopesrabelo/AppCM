@@ -1,0 +1,6 @@
+A Versão do FireBird usada é a que está disponibilizada neste diretório.
+A Versão do Delphi ultilizada é a Community 10.3, a mesma da imagem Versão_Delphi.png.
+
+Um banco firebird foi disponibilizado para teste em C:\AppCM\Banco.
+Usuario banco: SYSDBA	
+Senha: masterkey

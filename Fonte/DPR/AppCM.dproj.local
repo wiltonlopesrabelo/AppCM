@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/12/30 07:11:02.000.044,=C:\Users\WIN 10\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/30 12:24:02.000.778,C:\Users\WIN 10\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\WIN 10\Documents\Embarcadero\Studio\Projects\uPrincipal.dfm</Transaction>
+    <Transaction>2020/12/30 12:24:02.000.778,C:\Users\WIN 10\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\WIN 10\Documents\Embarcadero\Studio\Projects\uPrincipal.pas</Transaction>
+    <Transaction>2020/12/30 12:24:24.000.155,C:\Users\WIN 10\Documents\Embarcadero\Studio\Projects\uPrincipal.pas=</Transaction>
+    <Transaction>2020/12/30 12:26:32.000.948,=C:\AppCM\Fonte\View\uPrincipal.pas</Transaction>
+    <Transaction>2020/12/30 12:27:39.000.155,C:\Users\WIN 10\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\AppCM\Fonte\DPR\AppCM.dproj</Transaction>
+    <Transaction>2020/12/30 12:29:48.000.281,=C:\AppCM\Fonte\DPR\Unit1.pas</Transaction>
+    <Transaction>2020/12/30 12:30:06.000.101,C:\AppCM\Fonte\DPR\Unit1.pas=C:\AppCM\Fonte\DAO\uDAO.pas</Transaction>
+    <Transaction>2020/12/30 19:37:12.000.099,C:\AppCM\Fonte\DAO\uDAO.pas=</Transaction>
+    <Transaction>2020/12/30 19:37:58.000.597,=C:\AppCM\Fonte\DAO\uUsersDAO.pas</Transaction>
+    <Transaction>2020/12/30 19:38:39.000.784,=C:\AppCM\Fonte\DPR\Unit1.pas</Transaction>
+    <Transaction>2020/12/30 19:39:21.000.067,C:\AppCM\Fonte\DPR\Unit1.pas=C:\AppCM\Fonte\Modelo\uUser.pas</Transaction>
+    <Transaction>2020/12/30 19:39:32.000.686,C:\AppCM\Fonte\DAO\uUsersDAO.pas=</Transaction>
+    <Transaction>2020/12/30 19:39:56.000.863,=C:\AppCM\Fonte\DAO\uUserDAO.pas</Transaction>
+    <Transaction>2020/12/30 20:05:49.000.537,C:\AppCM\Fonte\DAO\uUserDAO.pas=</Transaction>
+    <Transaction>2020/12/30 20:06:28.000.408,=C:\AppCM\Fonte\DAO\uUsuarioDAO.pas</Transaction>
+    <Transaction>2020/12/30 20:07:06.000.122,C:\AppCM\Fonte\Modelo\uUser.pas=</Transaction>
+    <Transaction>2020/12/30 20:07:58.000.526,=C:\AppCM\Fonte\Modelo\uUsuario.pas</Transaction>
+    <Transaction>2020/12/30 20:27:01.000.307,=C:\AppCM\Fonte\DPR\Unit1.pas</Transaction>
+    <Transaction>2020/12/30 20:27:15.000.446,C:\AppCM\Fonte\DPR\Unit1.pas=C:\AppCM\Fonte\Modelo\uEndereco.pas</Transaction>
+    <Transaction>2020/12/30 21:00:05.000.973,=C:\AppCM\Fonte\DPR\Unit1.pas</Transaction>
+    <Transaction>2020/12/30 21:00:19.000.165,C:\AppCM\Fonte\DPR\Unit1.pas=C:\AppCM\Fonte\Modelo\uCompanhia.pas</Transaction>
+    <Transaction>2020/12/30 21:19:39.000.913,=C:\AppCM\Fonte\DPR\Unit1.pas</Transaction>
+    <Transaction>2020/12/30 21:20:01.000.422,C:\AppCM\Fonte\DPR\Unit1.dfm=C:\AppCM\Fonte\DPR\uDM.dfm</Transaction>
+    <Transaction>2020/12/30 21:20:01.000.422,C:\AppCM\Fonte\DPR\Unit1.pas=C:\AppCM\Fonte\DPR\uDM.pas</Transaction>
+    <Transaction>2020/12/30 21:20:15.000.466,C:\AppCM\Fonte\DPR\uDM.pas=</Transaction>
+    <Transaction>2020/12/30 21:21:58.000.089,=C:\AppCM\Fonte\Conexao\uDM.pas</Transaction>
+    <Transaction>2020/12/31 08:10:10.000.108,=C:\AppCM\Fonte\DPR\Unit1.pas</Transaction>
+    <Transaction>2020/12/31 08:10:59.000.805,C:\AppCM\Fonte\Parse\uParseJson.pas=C:\AppCM\Fonte\DPR\Unit1.pas</Transaction>
+    <Transaction>2021/01/03 12:02:12.464,=C:\AppCM\Fonte\DPR\Unit1.pas</Transaction>
+    <Transaction>2021/01/03 12:02:33.281,C:\AppCM\Fonte\Modelo\uObserver.pas=C:\AppCM\Fonte\DPR\Unit1.pas</Transaction>
+    <Transaction>2021/01/03 12:09:21.101,=C:\AppCM\Fonte\DPR\Unit1.pas</Transaction>
+    <Transaction>2021/01/03 12:09:47.926,C:\AppCM\Fonte\Threads\uThreadLog.pas=C:\AppCM\Fonte\DPR\Unit1.pas</Transaction>
+    <Transaction>2021/01/03 13:56:15.670,C:\AppCM\Fonte\Modelo\uObserver.pas=</Transaction>
+    <Transaction>2021/01/03 14:00:25.873,C:\AppCM\Fonte\Threads\uThreadLog.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
